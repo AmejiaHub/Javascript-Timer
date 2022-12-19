@@ -44,3 +44,14 @@ The overall colors of this app was kept in dark-mode because of the following re
 2) Its a current trend that users are using dark-mode themes on their phones. I only see users, using light-mode when it  comes to reading on the web browser of the phone.
 
 This app can be used as a normal website, but was coded to be mainly responsive and look good on mobile phones.
+
+
+Deliverables:
+
+GitHub link in simplonline.co - status: done
+
+Figma link in ReadMe.md auf GitHub - https://www.figma.com/file/mtPOYgeNQxvPxnplm19i3s/Untitled?node-id=0%3A1&t=rSQUFf6IR153cD46-0
+
+Restrospective document link in ReadMe.md - status: N/A
+
+Vernissage of your product in class - status: N/A
